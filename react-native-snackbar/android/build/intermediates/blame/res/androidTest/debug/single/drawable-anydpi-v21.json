@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/Cash/.android/build-cache/a1c31ea76a3a89069c6b6332809e926cef9633e5/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/Cash/.android/build-cache/a1c31ea76a3a89069c6b6332809e926cef9633e5/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

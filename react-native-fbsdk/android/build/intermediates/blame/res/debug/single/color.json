@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/Cash/.android/build-cache/937e852b15e5b2530c4034064142a08083bf7715/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/Cash/.android/build-cache/2302e50133fe847ad6c3db2bbb45e569cd7de0df/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color/abc_tint_edittext.xml"
+    }
+]

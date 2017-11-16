@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

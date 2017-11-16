@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/Users/Cash/.android/build-cache/ac8cdf33dadf4ca29da6e77cd2f8f5ff14fc18e6/output/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    }
+]

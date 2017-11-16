@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Cash/.android/build-cache/a1c31ea76a3a89069c6b6332809e926cef9633e5/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Cash/.android/build-cache/a1c31ea76a3a89069c6b6332809e926cef9633e5/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

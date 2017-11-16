@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/data/projects/eatsy/diner-dev/node_modules/react-native-fcm/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mk/values-mk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 195,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "/Users/Cash/.android/build-cache/d6bc3e050808d9e73d8b1f024a18e4ad2718df03/output/res/values-mk/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 195,
+                        "endOffset": 480
+                    }
+                }
+            }
+        ]
+    }
+]

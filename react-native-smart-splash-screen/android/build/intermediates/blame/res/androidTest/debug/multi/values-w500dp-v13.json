@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/data/projects/eatsy/diner-dev/node_modules/react-native-smart-splash-screen/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/Cash/.android/build-cache/ee8b275297b0b9316a358091bc661ab61c4a8aaa/output/res/values-w500dp-v13/values-w500dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

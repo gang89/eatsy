@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-smart-splash-screen/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/ee8b275297b0b9316a358091bc661ab61c4a8aaa/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-smart-splash-screen/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/ee8b275297b0b9316a358091bc661ab61c4a8aaa/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

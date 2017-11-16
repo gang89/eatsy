@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/Cash/.android/build-cache/8cc1f4c67b68d893156b87fab0e098e052f8e854/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/xml/preferences.xml"
+    }
+]

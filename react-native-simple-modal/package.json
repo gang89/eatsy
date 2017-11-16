@@ -1,0 +1,31 @@
+{
+  "name": "react-native-simple-modal",
+  "version": "5.1.1",
+  "description": "A simple JavaScript modal component for React Native.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodyflex/react-native-simple-modal.git"
+  },
+  "keywords": [
+    "modal",
+    "react-native",
+    "dialog",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.17.0"
+  },
+  "author": "bodyflex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodyflex/react-native-simple-modal/issues"
+  },
+  "homepage": "https://github.com/bodyflex/react-native-simple-modal#readme"
+}

@@ -1,0 +1,135 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-scrollable-tab-view@^0.6.3",
+        "scope": null,
+        "escapedName": "react-native-scrollable-tab-view",
+        "name": "react-native-scrollable-tab-view",
+        "rawSpec": "^0.6.3",
+        "spec": ">=0.6.3 <0.7.0",
+        "type": "range"
+      },
+      "/Users/prakashsaini/Sites/ptspotter/PTSpotter"
+    ],
+    [
+      {
+        "raw": "react-native-scrollable-tab-view@git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+        "scope": null,
+        "escapedName": "react-native-scrollable-tab-view",
+        "name": "react-native-scrollable-tab-view",
+        "rawSpec": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+        "spec": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:prakashw3expert/react-native-scrollable-tab-view.git",
+          "sshUrl": "git+ssh://git@github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+          "httpsUrl": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+          "gitUrl": "git://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+          "shortcut": "github:prakashw3expert/react-native-scrollable-tab-view",
+          "directUrl": "https://raw.githubusercontent.com/prakashw3expert/react-native-scrollable-tab-view/master/package.json"
+        }
+      },
+      "/Users/prakashsaini/Sites/eatsy/eatsy-diner-app-prakash"
+    ]
+  ],
+  "_from": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+  "_id": "react-native-scrollable-tab-view@0.6.3",
+  "_inCache": true,
+  "_location": "/react-native-scrollable-tab-view",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-scrollable-tab-view-0.6.3.tgz_1490615398997_0.36164037720300257"
+  },
+  "_npmUser": {
+    "name": "headless",
+    "email": "skv-headless@yandex.ru"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-scrollable-tab-view@git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+    "scope": null,
+    "escapedName": "react-native-scrollable-tab-view",
+    "name": "react-native-scrollable-tab-view",
+    "rawSpec": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+    "spec": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:prakashw3expert/react-native-scrollable-tab-view.git",
+      "sshUrl": "git+ssh://git@github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+      "httpsUrl": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+      "gitUrl": "git://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+      "shortcut": "github:prakashw3expert/react-native-scrollable-tab-view",
+      "directUrl": "https://raw.githubusercontent.com/prakashw3expert/react-native-scrollable-tab-view/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git#8e7f6d47af57046f9c42a693b89c3594b7759ebf",
+  "_shasum": "33f2dbe6dae9efdbad3ac3d27b5a9100219ba021",
+  "_shrinkwrap": null,
+  "_spec": "react-native-scrollable-tab-view@git+https://github.com/prakashw3expert/react-native-scrollable-tab-view.git",
+  "_where": "/Users/prakashsaini/Sites/eatsy/eatsy-diner-app-prakash",
+  "author": {
+    "name": "Brent Vatne"
+  },
+  "bugs": {
+    "url": "https://github.com/brentvatne/react-native-scrollable-tab-view/issues"
+  },
+  "dependencies": {
+    "react-static-container": "^1.0.1",
+    "react-timer-mixin": "^0.13.3"
+  },
+  "description": "[![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.1.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "32fdc31961bea42016aabca26ec57cc721386d62",
+    "tarball": "https://registry.npmjs.org/react-native-scrollable-tab-view/-/react-native-scrollable-tab-view-0.6.3.tgz"
+  },
+  "gitHead": "3cf821fda7a7235c1c582d2bd6ad5e17544ae48d",
+  "homepage": "https://github.com/brentvatne/react-native-scrollable-tab-view#readme",
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "tab",
+    "scrollable"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "brentvatne",
+      "email": "brentvatne@gmail.com"
+    },
+    {
+      "name": "headless",
+      "email": "skv-headless@yandex.ru"
+    }
+  ],
+  "name": "react-native-scrollable-tab-view",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentvatne/react-native-scrollable-tab-view.git"
+  },
+  "scripts": {
+    "lint": "eslint -c .eslintrc . --ignore-path .gitignore",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.3"
+}

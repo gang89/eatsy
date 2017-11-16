@@ -1,0 +1,70 @@
+{
+  "name": "react-native-extended-stylesheet",
+  "version": "0.4.0",
+  "description": "Extended StyleSheets for React Native",
+  "author": {
+    "name": "Vitaliy Potapov",
+    "email": "noginsk@rambler.ru"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "code": "check-dependencies && eslint src",
+    "lint-staged": "lint-staged",
+    "show-deps": "npm ls --depth=0",
+    "test": "jest --coverage",
+    "coveralls": "coveralls < coverage/lcov.info",
+    "release-patch": "npm run code && npm test && npm version patch && npm publish && git push --follow-tags",
+    "release-minor": "npm run code && npm test && npm version minor && npm publish && git push --follow-tags",
+    "precommit": "npm run lint-staged",
+    "prepush": "npm run code && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vitalets/react-native-extended-stylesheet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitalets/react-native-extended-stylesheet/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "css-mediaquery": "^0.1.2",
+    "object-resolve-path": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "babel-jest": "^19.0.0",
+    "babel-preset-react-native": "^1.9.1",
+    "check-dependencies": "^1.0.1",
+    "coveralls": "^2.13.0",
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-react": "^6.10.3",
+    "eslint-plugin-react-native": "^2.3.1",
+    "husky": "^0.13.3",
+    "jest-cli": "^19.0.2",
+    "lint-staged": "^3.4.0"
+  },
+  "lint-staged": {
+    "*.js": "eslint"
+  },
+  "jest": {
+    "automock": false,
+    "roots": [
+      "src"
+    ],
+    "transform": {
+      "^.+\\.js$": "<rootDir>/node_modules/babel-jest"
+    },
+    "verbose": true,
+    "collectCoverage": false
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "mobile",
+    "ios",
+    "android"
+  ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-smart-splash-screen/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Cash/.android/build-cache/ee8b275297b0b9316a358091bc661ab61c4a8aaa/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-smart-splash-screen/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Cash/.android/build-cache/ee8b275297b0b9316a358091bc661ab61c4a8aaa/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-smart-splash-screen/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Cash/.android/build-cache/ee8b275297b0b9316a358091bc661ab61c4a8aaa/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

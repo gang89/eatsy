@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/joshuapinter/Development/react-native-unified-contacts/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/joshuapinter/Development/react-native-unified-contacts/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/joshuapinter/Development/ntwrk/node_modules/react-native-unified-contacts/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/joshuapinter/Development/ntwrk/node_modules/react-native-unified-contacts/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/res/xml/preferences.xml"
+    }
+]

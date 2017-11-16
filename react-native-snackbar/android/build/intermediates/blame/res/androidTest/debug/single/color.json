@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_default.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/Cash/.android/build-cache/a1c31ea76a3a89069c6b6332809e926cef9633e5/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/design_error.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/color/design_error.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_default.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/design_error.xml",
+        "source": "/Users/Cash/.android/build-cache/a1c31ea76a3a89069c6b6332809e926cef9633e5/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_tint_default.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/design_error.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/color/design_error.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    }
+]

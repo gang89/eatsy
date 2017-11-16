@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/klap-hotel/dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Cash/.android/build-cache/2e340d7327ca140e12a10bb354b749316f3acf45/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/klap-hotel/Dev/react-native-snackbar/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

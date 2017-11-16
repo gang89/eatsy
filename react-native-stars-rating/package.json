@@ -1,0 +1,45 @@
+{
+  "name": "react-native-stars-rating",
+  "version": "0.1.6",
+  "description": "react-native stars rating component",
+  "main": "lib/Stars.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "prepublish": "npm run babel-prepublish && npm run flow-prepublish",
+    "babel-prepublish": "babel src/ -d lib",
+    "flow-prepublish": "flow-copy-source src lib --ignore '*-*'"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "flow-bin": "^0.38.0",
+    "flow-copy-source": "^1.1.0",
+    "jest": "18.1.0",
+    "react-test-renderer": "15.4.2",
+    "rimraf": "^2.5.4"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjiandy/react-native-stars-rating.git"
+  },
+  "keywords": [
+    "react-native",
+    "rating-stars",
+    "stars",
+    "rating"
+  ],
+  "author": "jiandy.ricky@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjiandy/react-native-stars-rating/issues"
+  },
+  "readme": "https://github.com/rjiandy/react-native-stars-rating/#readme"
+}

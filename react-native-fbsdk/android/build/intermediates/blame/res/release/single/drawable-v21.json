@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

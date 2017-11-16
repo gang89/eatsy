@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/Cash/.android/build-cache/8cc1f4c67b68d893156b87fab0e098e052f8e854/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/Cash/.android/build-cache/73173a890fab497b62890bdf6241b8c4edd8f759/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/Cash/.android/build-cache/6b6b6360e7ef81f5e8fdfa7eeeb49eabe2d3ae2d/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/Cash/.android/build-cache/937e852b15e5b2530c4034064142a08083bf7715/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/Cash/.android/build-cache/937e852b15e5b2530c4034064142a08083bf7715/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/Cash/.android/build-cache/6b6b6360e7ef81f5e8fdfa7eeeb49eabe2d3ae2d/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/Cash/.android/build-cache/6b6b6360e7ef81f5e8fdfa7eeeb49eabe2d3ae2d/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/Cash/.android/build-cache/6b6b6360e7ef81f5e8fdfa7eeeb49eabe2d3ae2d/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/Cash/.android/build-cache/6b6b6360e7ef81f5e8fdfa7eeeb49eabe2d3ae2d/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/Users/Cash/.android/build-cache/8cc1f4c67b68d893156b87fab0e098e052f8e854/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/Cash/.android/build-cache/937e852b15e5b2530c4034064142a08083bf7715/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/Users/Cash/.android/build-cache/8cc1f4c67b68d893156b87fab0e098e052f8e854/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/Cash/.android/build-cache/6b6b6360e7ef81f5e8fdfa7eeeb49eabe2d3ae2d/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/937e852b15e5b2530c4034064142a08083bf7715/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/Users/Cash/.android/build-cache/8cc1f4c67b68d893156b87fab0e098e052f8e854/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/Users/Cash/.android/build-cache/8cc1f4c67b68d893156b87fab0e098e052f8e854/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout/abc_action_mode_close_item_material.xml"
+    }
+]

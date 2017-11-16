@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/data/projects/eatsy/diner-dev/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/Cash/.android/build-cache/9143abf439a6bb4a9c6f1170143096b9e67a0e76/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

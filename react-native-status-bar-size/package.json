@@ -1,0 +1,19 @@
+{
+  "name": "react-native-status-bar-size",
+  "version": "0.3.2",
+  "description": "Watch and respond to changes in the iOS status bar height",
+  "main": "StatusBarSizeIOS.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jgkim/react-native-status-bar-size.git"
+  },
+  "files": [
+    "StatusBarSizeIOS.js",
+    "README.md"
+  ],
+  "author": "Brent Vatne <brentvatne@gmail.com> (https://github.com/brentvatne/)",
+  "contributors": [
+    "James G. Kim <jgkim@jayg.org> (https://jayg.org/)"
+  ],
+  "license": "MIT"
+}
